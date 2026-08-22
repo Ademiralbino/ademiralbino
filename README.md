@@ -1,6 +1,6 @@
 # Oi! Eu sou o Ademir Albino 👋
 
-Estudante de **Análise e Desenvolvimento de Sistemas** em transição de carreira para a área de Tecnologia. Apaixonado por desenvolvimento de software, arquitetura de sistemas e segurança da informação. Buscando oportunidades de estágio e atuação em desenvolvimento Java, Web e Full-Stack.
+Estudante do penúlitmo semestre de **Análise e Desenvolvimento de Sistemas**. Apaixonado por desenvolvimento de software, arquitetura de sistemas e segurança da informação. Buscando oportunidades de estágio e atuação em desenvolvimento Java, Web e Full-Stack.
 
 ---
 
